@@ -1334,6 +1334,10 @@ input[type="radio"]:checked ~ .box .circle background{
   --tw-text-opacity: 1;
   color: rgb(229 231 235 / var(--tw-text-opacity));
 }
+.text-darkblue{
+  --tw-text-opacity: 1;
+  color: rgb(0 32 96 / var(--tw-text-opacity));
+}
 .text-gray-7{
   --tw-text-opacity: 1;
   color: rgb(206 212 218 / var(--tw-text-opacity));
